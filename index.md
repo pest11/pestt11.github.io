@@ -13,3 +13,6 @@ Bruchmeister lieben
 * Lüttje Lage
 * Zylinder
 * Collegium ehemaliger Bruchmeister
+
+Zitat eines Bruchmeisters:
+Hannover ist die schönste Stadt der Welt
