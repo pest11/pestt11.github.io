@@ -15,4 +15,4 @@ Bruchmeister lieben
 * Collegium ehemaliger Bruchmeister
 
 Zitat eines Bruchmeisters:
-Hannover ist die schönste Stadt der Welt
+> Hannover ist die schönste Stadt der Welt
