@@ -16,3 +16,5 @@ Bruchmeister lieben
 
 Zitat eines Bruchmeisters:
 > Hannover ist die schönste Stadt der Welt
+
+<img src=https://www.bruchmeister.info/bruchmeister-rundgang-2018/>
